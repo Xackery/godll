@@ -1,0 +1,2 @@
+# godll
+Go DLL Experiment
